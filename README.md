@@ -3,7 +3,7 @@
 # RootRadar
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![License](https://imgangs.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Type](https://img.shields.io/badge/Type-Blue_Team_Scanner-blue)
 
 <p>

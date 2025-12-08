@@ -36,7 +36,7 @@ It specifically looks for code injection in user startup files (`.bashrc`), sche
 ### 1. Compile/Run
 Since this is a simple Python script with no external dependencies, simply clone and run:
 ```bash
-git clone [https://github.com/egetones/rootradar.git](https://github.com/egetones/rootradar.git)
+git clone https://github.com/egetones/rootradar.git
 cd rootradar
 python3 rootradar.py
 ```
